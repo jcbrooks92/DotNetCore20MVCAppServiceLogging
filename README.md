@@ -1,8 +1,10 @@
-# DotNetCore20MVCAppServiceLogging
+# DotNetCore20AppServiceLogging
 
 Welcome to the DotNet (.Net) Core 2.0 MVC Logging with App Services.
 
 Since there isn't a full project example that I could I find I decided to create one. This should just be used as a reference to get started. Thanks to the StackOverflow user Lars for his reference : [Stackoverflowpost](https://stackoverflow.com/questions/49111671/where-does-the-asp-net-core-logging-api-as-default-store-logs)
+
+![LogStream from App Service](https://github.com/jcbrooks92/DotNetCore20MVCAppServiceLogging/blob/master/TestCore20MVC.png)
 
 Startup.cs should look similar to this, note the important parts are surrounded by ** **:
 ```
